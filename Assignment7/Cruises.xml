@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Cruises>
+	<Cruise FoundedIn="1972">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Carnival Cruise Line</Name>
+		<Reservation>
+			<Phone>1-800-CARNIVAL</Phone>
+			<URL>www.carnival.com</URL>
+		</Reservation>
+		<Headquarter Zip="33178">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarter>
+		<DeparturePorts>Baltimore</DeparturePorts>
+		<DeparturePorts>Los Angeles</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1873">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Holland America Line</Name>
+		<Reservation>
+			<Phone>1-855-932-1711</Phone>
+			<URL>www.hollandamerica.com</URL>
+		</Reservation>
+		<Headquarter Zip="98119">
+			<City>Seattle</City>
+			<State>Washington</State>
+		</Headquarter>
+		<DeparturePorts>San Diego</DeparturePorts>
+		<DeparturePorts>Seattle</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1985">
+		<ParentCompany>Royal Caribbean Group</ParentCompany>
+		<Name>Royal Caribbean Cruise</Name>
+		<Reservation>
+			<Phone>1-800-256-6649</Phone>
+			<URL>www.royalcaribbean.com</URL>
+		</Reservation>
+		<Headquarter Zip="33132">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarter>
+		<DeparturePorts>Miami</DeparturePorts>
+		<DeparturePorts>New Orleans</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1995">
+		<ParentCompany>Disney Parks, Experiences and Products</ParentCompany>
+		<Name>Disney Cruise Line</Name>
+		<Reservation>
+			<Phone>1-800-951-3532</Phone>
+			<URL>www.disneycruise.disney.go.com</URL>
+		</Reservation>
+		<Headquarter Zip="34747">
+			<City>Celebration</City>
+			<State>Florida</State>
+		</Headquarter>
+		<DeparturePorts>Fort Lauterdale</DeparturePorts>
+		<DeparturePorts>New York</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1988">
+		<ParentCompany>Royal Carribean Group</ParentCompany>
+		<Name>Celebrity Cruises</Name>
+		<Reservation>
+			<Phone>1-844-418-6824</Phone>
+			<URL>www.carnival.com</URL>
+		</Reservation>
+		<Headquarter Zip="33132">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarter>
+		<DeparturePorts>Honolulu</DeparturePorts>
+		<DeparturePorts>Tampa</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1840">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Cunard Line</Name>
+		<Reservation>
+			<Phone>1-800-728-6273</Phone>
+			<URL>www.cunard.com</URL>
+		</Reservation>
+		<Headquarter Zip="91355">
+			<City>Santa Clarita</City>
+			<State>California</State>
+		</Headquarter>
+		<DeparturePorts>Brooklyn</DeparturePorts>
+		<DeparturePorts>San Francisco</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1965">
+		<ParentCompany>Carnival Corporation</ParentCompany>
+		<Name>Princess Cruises</Name>
+		<Reservation>
+			<Phone>1-800-774-6237</Phone>
+			<URL>www.princess.com</URL>
+		</Reservation>
+		<Headquarter Zip="33178">
+			<City>Santa Clarita</City>
+			<State>California</State>
+		</Headquarter>
+		<DeparturePorts>Anchorage</DeparturePorts>
+		<DeparturePorts>Galveston</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1966">
+		<ParentCompany>Norwegian Cruise Line Holdings</ParentCompany>
+		<Name>Norwegian Cruise Line</Name>
+		<Reservation>
+			<Phone>1-866-234-7350</Phone>
+			<URL>www.ncl.com</URL>
+		</Reservation>
+		<Headquarter Zip="33126">
+			<City>Miami</City>
+			<State>Florida</State>
+		</Headquarter>
+		<DeparturePorts>Port Canaveral</DeparturePorts>
+		<DeparturePorts>Baltimore</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="2014">
+		<ParentCompany>Virgin Group</ParentCompany>
+		<Name>Virgin Voyages</Name>
+		<Reservation>
+			<Phone>1-954-488-2955</Phone>
+			<URL>www.virginvoyages.com</URL>
+		</Reservation>
+		<Headquarter Zip="33324">
+			<City>Plantation</City>
+			<State>Florida</State>
+		</Headquarter>
+		<DeparturePorts>Miami</DeparturePorts>
+		<DeparturePorts>San Diego</DeparturePorts>
+	</Cruise>
+	<Cruise FoundedIn="1970">
+		<ParentCompany>Mediterranean Shiiping Company</ParentCompany>
+		<Name>MSC Cruises</Name>
+		<Reservation>
+			<Phone>1-877-665-4655</Phone>
+			<URL>www.msccruiseusa.com</URL>
+		</Reservation>
+		<Headquarter Zip="33309">
+			<City>Fort Lauterdale</City>
+			<State>Florida</State>
+		</Headquarter>
+		<DeparturePorts>New York</DeparturePorts>
+		<DeparturePorts>San Francisco</DeparturePorts>
+	</Cruise>
+</Cruises>
