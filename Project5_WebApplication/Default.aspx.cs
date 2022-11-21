@@ -13,5 +13,20 @@ namespace Project5_WebApplication
         {
            
         }
+
+        protected void btn_memberPage_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("MemberPage.aspx");
+        }
+
+        protected void btn_staffPage_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("StaffLogin.aspx");
+        }
+
+        protected void btn_adminPage_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("AdminPage.aspx");
+        }
     }
 }

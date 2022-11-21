@@ -24,13 +24,31 @@ namespace Project5_WebApplication
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// NavigationBar control.
+        /// btn_memberPage control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Project5_WebApplication.NavigationBar NavigationBar;
+        protected global::System.Web.UI.WebControls.Button btn_memberPage;
+
+        /// <summary>
+        /// btn_staffPage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_staffPage;
+
+        /// <summary>
+        /// btn_adminPage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_adminPage;
 
         /// <summary>
         /// LastPageReload1 control.
