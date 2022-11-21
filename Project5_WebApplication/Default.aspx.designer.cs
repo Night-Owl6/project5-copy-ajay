@@ -51,6 +51,42 @@ namespace Project5_WebApplication
         protected global::System.Web.UI.WebControls.Button btn_adminPage;
 
         /// <summary>
+        /// lbl_username control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_username;
+
+        /// <summary>
+        /// lbl_display_cookie control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox lbl_display_cookie;
+
+        /// <summary>
+        /// btn_createCookie control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btn_createCookie;
+
+        /// <summary>
+        /// tb_username control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox tb_username;
+
+        /// <summary>
         /// LastPageReload1 control.
         /// </summary>
         /// <remarks>

@@ -16,6 +16,13 @@ namespace Project5_WebApplication
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            Application["session_count"] = 0;
+        }
+
+        protected void Session_Start() 
+        {
+            Application["session_count"] = (int)Application["session_count"] + 1;            
         }
     }
 }
