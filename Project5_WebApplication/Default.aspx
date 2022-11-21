@@ -31,7 +31,7 @@
         <loadPageControl:LastPageReload ID="LastPageReload1" runat="server" />
     </div>
     <p>Service directory Below</p>
-    <embed src="https://www.public.asu.edu/~atiwar22/service_directory1.pdf" width="600" height="500"
+    <embed src="https://www.public.asu.edu/~atiwar22/service_directory2.pdf" width="600" height="500"
         type="application/pdf">
     <p>
         &nbsp;
